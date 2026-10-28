@@ -1,8 +1,8 @@
 class Papermend < Formula
   desc "Minimal CLI-only PaperCut Print Deploy client"
   homepage "https://github.com/lancylot2004/papermend"
-  url "https://github.com/lancylot2004/papermend/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "048e949e22c6f80af13e5b1aed805ed523350064fc9e352048f96af61461664d"
+  url "https://github.com/lancylot2004/papermend/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "03c009099f9a2d296142e8b2883dd4dd6243633a07231956dbd5f0c5e64af7d4"
   license "MIT"
 
   depends_on "rust" => :build
